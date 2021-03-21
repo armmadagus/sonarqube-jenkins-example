@@ -8,6 +8,6 @@ public class MathService {
 
     // Add Comment
     public int subtract(int firstNumber, int secondNumber) {
-        return firstNumber - secondNumber
+        return firstNumber - secondNumber;
     }
 }
