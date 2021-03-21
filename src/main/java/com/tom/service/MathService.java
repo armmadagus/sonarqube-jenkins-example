@@ -2,9 +2,9 @@ package com.tom.service;
 
 public class MathService {
 
-    Int a = null;
+    int a = null;
     public int multiply(int firstNumber, int secondNumber) {
-        Int b = a * 1;
+        int b = a * 1;
         return firstNumber * secondNumber;
     }
 
