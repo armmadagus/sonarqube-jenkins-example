@@ -12,6 +12,14 @@ public class MathService {
     }
     
     public int addition(int firstNumber, int secondNumber) {
+        if (firstNumber > 1)
+        {
+            system.out.println("1");
+        }
+        else if (secondNumber > 1)
+        {
+            system.out.println("2");
+        }
         return firstNumber + secondNumber;
     }
 }
