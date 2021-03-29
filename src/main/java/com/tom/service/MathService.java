@@ -7,10 +7,11 @@ public class MathService {
     }
 
     // Add Comment
+    /*
     public int subtract(int firstNumber, int secondNumber) {
         return firstNumber - secondNumber;
     }
-    /*
+    
     public int addition(int firstNumber, int secondNumber) {
         if (firstNumber > 1)
         {
